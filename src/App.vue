@@ -5,12 +5,12 @@
 </template>
 
 <script>
-import EmployeeComponent from './components/EmployeeComponent.vue'
 
+import EmployeeComponent from './components/EmployeeComponent.vue';
 export default {
   name: 'App',
   components: {
-    EmployeeComponent
+    EmployeeComponent,
   }
 }
 
